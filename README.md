@@ -66,25 +66,6 @@
 
 # 🧠 Currently Learning
 
-python
-class Gustavo:
-    def __init__(self):
-        self.name = "Gustavo Nascimento"
-        self.role = "Backend/Web Developer"
-        self.language = "Python"
-        self.framework = "Flask"
-    def current_focus(self):
-        return [
-            "Backend Development",
-            "Modern Web Applications",
-            "APIs",
-            "Cybersecurity",
-            "Automation"
-        ]
-
-me = Gustavo()
-
-
 ---
 
 # 🌐 Connect With Me
