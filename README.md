@@ -50,23 +50,9 @@
 
 </div>
 
----
-
-# 🧠 Currently Learning
 
 ---
 
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/GustavoNascimentoDv">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=6A5CFF">
-</a>
-
-</div>
-
----
 
 # 🐍 Contribution Snake
 
