@@ -73,7 +73,6 @@ class Gustavo:
         self.role = "Backend/Web Developer"
         self.language = "Python"
         self.framework = "Flask"
-
     def current_focus(self):
         return [
             "Backend Development",
