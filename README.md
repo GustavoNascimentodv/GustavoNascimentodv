@@ -1,41 +1,98 @@
-<h2 align="left">Welcome to my profile</h2>
+<h1 align="center">⚡ Gustavo Batista ⚡</h1>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=35&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Tech;Python+Developer;Cybersecurity+Enthusiast;Flask+%7C+Web+Developer;Sempre+Aprendendo+Coisas+Novas" />
+</p>
 
+---
 
+# 👨‍💻 Sobre mim
 
-###
+🚀 Desenvolvedor apaixonado por tecnologia, automação e desenvolvimento web.
 
+🎯 Atualmente focado em:
+- Desenvolvimento Web com Python/Flask
+- Desenvolvimento Web com JavaScript
+- APIs
+- Automação
+- Sistemas Inteligentes
 
-###
+💡 Sempre criando projetos para evoluir minhas habilidades.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  
+---
+
+# 🛠️ Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,flask,html,css,bootstrap,javascript,mysql,git,github,vscode" />
+
 </div>
 
-###
+---
 
-<div align="left">
- 
-  <img src="https://img.shields.io/static/v1?message=instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="www.instagram.com/gustabattista"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+# 📊 Estatísticas
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoNascimentoDv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNascimentoDv&layout=compact&langs_count=7&theme=tokyonight"/>
+
 </div>
 
-###
+---
 
-<br clear="both">
+# 🔥 Streak Stats
 
+<div align="center">
 
-###
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoNascimentoDv&theme=tokyonight" />
+
+</div>
+
+---
+
+# 🧠 Projetos em Destaque
+
+🚀 [Validador de Links](https://github.com/GustavoNascimentoDv/REPO)
+
+🛒 [Loja Online](https://github.com/GustavoNascimentoDv/REPO)
+
+🔐 [Sistema de Login Flask](https://github.com/GustavoNascimentoDv/REPO)
+
+---
+
+# 🐍 Contribuições
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+
+</div>
+
+---
+
+# 🌐 Redes
+
+<div align="center">
+
+<a href="https://github.com/GustavoNascimentoDv">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://instagram.com">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram">
+</a>
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=120&section=footer"/>
+</p>
