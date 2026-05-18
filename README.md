@@ -66,7 +66,7 @@
 
 # 🧠 Currently Learning
 
-```python
+python
 class Gustavo:
     def __init__(self):
         self.name = "Gustavo Nascimento"
@@ -84,7 +84,7 @@ class Gustavo:
         ]
 
 me = Gustavo()
-```
+
 
 ---
 
